@@ -1,0 +1,112 @@
+﻿================== SLIDE 1 ==================
+[Google Shape;38;p5]
+Predictive Mathematical Modeling & Smart App for Mess Management
+[Google Shape;40;p5 TABLE 1x2]
+Row 1 : Presented By:Varun Karankar  (Roll No. IEC2023037)Aadarsh Singh (Roll No. IEC2023058)Tushar Garg (Roll No. IEC2023059)Department of ECEIIIT Allahabad, India | Supervised By:Dr. Kirtan Gopal PandaAssistant Professor, IIIT Allahabad
+================== SLIDE 2 ==================
+[Google Shape;45;p6]
+Problem Statement
+[Google Shape;46;p6]
+2
+================== SLIDE 3 ==================
+[Google Shape;54;p7]
+Objective
+[Google Shape;55;p7]
+3
+================== SLIDE 4 ==================
+[Google Shape;63;p8]
+Literature Survey
+[Google Shape;64;p8]
+4
+[Google Shape;65;p8 TABLE 6x4]
+Row 1 : Research Paper | Published at | Summary | Novelty
+Row 2 : 1. A stacking ensemble model for food demand forecasting: A preventative approach to food waste reduction | Cleaner Logistics and Supply Chain (Elsevier) 2025 | Proposes a hybrid machine learning model (combining Random Forest, XGBoost, LSTM, etc.) to dynamically predict demand and optimize daily retail inventory. | Integrates specific "freshness" variables into the algorithm and directly measures the model's practical impact on reducing day-to-day food waste.
+Row 3 : 2. Time Series-Based Demand Forecasting: A Comparative Analysis of Holt-Winters, SARIMA, and Prophet Models on Retail Inventory Data | Istanbul Ticaret Üniversitesi Bilimler Dergisi 2025 | Evaluates classical time-series models against a large-scale retail inventory dataset to predict daily product demand and manage stock. | Demonstrates that interpretable, classical models (like Holt-Winters) can actually outperform complex AI in capturing seasonal retail trends, offering a highly practical business solution.
+Row 4 : 3. Exploring the potential of artificial intelligence for restructuring the food packaging sector | Journal of Future Foods (Elsevier / KeAi) 2025 | Reviews the integration of AI, IoT, and machine learning into smart and biodegradable packaging to monitor food conditions. | Shifts focus from static preservation to dynamic "intelligent packaging" that uses embedded nano-biosensors for real-time shelf-life prediction and transparency.
+Row 5 : 4. Artificial intelligence in food system: Innovative approach to predicting food spoilage and inventory forecasting | Journal of Agriculture and Food Research (Elsevier)  2025 | Analyzes AI-driven predictive analytics and dynamic algorithms used to forecast spoilage and optimize supply chain storage conditions. | Combines early spoilage detection with real-time environmental data, proving through case studies that AI adjustments can cut retail food waste by nearly 15%.
+Row 6 : 5. Artificial intelligence for food safety: From predictive models to real-world safeguards | Trends in Food Science & Technology (Elsevier) 2025 | Explores the use of AI paired with smart sensors and computer vision for the rapid, non-invasive detection of food fraud and contamination. | Bridges the gap between lab testing and field application by emphasizing edge computing and low-cost AI devices for rural and decentralized supply chains.
+================== SLIDE 5 ==================
+[Google Shape;70;p9]
+Research Gaps
+[Google Shape;71;p9]
+5
+================== SLIDE 6 ==================
+[Google Shape;86;p10]
+Contributions
+[Google Shape;87;p10]
+6
+================== SLIDE 7 ==================
+[Google Shape;105;p11]
+Contributions
+[Google Shape;106;p11]
+7
+================== SLIDE 8 ==================
+[Google Shape;118;p12]
+Methodology
+[Google Shape;119;p12]
+8
+================== SLIDE 9 ==================
+[Google Shape;129;p13]
+The Mathematical Engine of Gradient Boosting
+================== SLIDE 10 ==================
+[Google Shape;140;p14]
+Application- User Journey & Happy Flow
+================== SLIDE 11 ==================
+[Google Shape;147;p15]
+Results
+================== SLIDE 12 ==================
+[Google Shape;156;p16]
+12
+[Google Shape;157;p16]
+                              		Application Ui & Tech Stack
+[Google Shape;158;p16]
+Auth & QR Screen
+[Google Shape;159;p16]
+JWT-encoded, time-bound tokens.
+[Google Shape;160;p16]
+Live Dashboard
+[Google Shape;161;p16]
+Redis caching + WebSocket (Socket.io)
+[Google Shape;162;p16]
+Email Verification
+[Google Shape;163;p16]
+React Native UI backed by PostgreSQL.
+================== SLIDE 13 ==================
+[Google Shape;173;p17]
+13
+[Google Shape;174;p17]
+Expected Outcomes and KPIs
+[Google Shape;175;p17]
+ MAPE: < 8% error (tested on 6 months data) Waste Reduction: ↓ 20–25% Shortage Rate: < 1% (significant gaps only) QR Adoption: > 90% within 1 month Wait Time: ↓ 30–40% via live headcount
+================== SLIDE 14 ==================
+[Google Shape;184;p18]
+Scalability & Industrial Applicability
+================== SLIDE 15 ==================
+[Google Shape;193;p19]
+Conclusion and Future Work
+[Google Shape;194;p19]
+Novel Contributions
+[Google Shape;195;p19]
+Algorithmic Innovation: First application of Asymmetric Loss functions to campus food demand forecastingIntraday Adaptability: Regressor Chaining to dynamically detect and adjust for sudden drops in meal attendanceClosed-Loop Architecture: A unified, full-stack ecosystem bridging data collection with actionable operations intelligence
+[Google Shape;196;p19]
+Future Work
+[Google Shape;197;p19]
+Reinforcement Learning: Adaptive, real-time tuning of heuristic hyperparameters to respond to changing campus behaviorsComputer Vision Integration: Automated plate-waste and leftover estimation utilizing edge-deployed CV modelsAlgorithmic Nutrition: Multi-objective optimization balancing student dietary health with procurement constraints and ingredient fatigue
+[Google Shape;198;p19]
+Thank You
+[Google Shape;199;p19]
+Uniting smart application architecture with advanced mathematical modeling to translate theoretical data science into measurable, real-world sustainability — bridging theory and practice in campus food service operations.
+[Google Shape;200;p19]
+From novel algorithmic contributions to a bold vision for intelligent food service operations
+================== SLIDE 16 ==================
+[Google Shape;205;p20]
+16
+[Google Shape;206;p20]
+References 
+[Google Shape;207;p20]
+[1] S. Alam Khan and A. Erdoğdu, “A stacking ensemble model for food demand forecasting: A preventative approach to food waste reduction,” Cleaner Logistics and Supply Chain, Elsevier, vol. 6, Art. no. 100225, 2025, doi: 10.1016/j.clscn.2025.100225.[2] M. Yıldırım and H. Demir, “Time series-based demand forecasting: A comparative analysis of Holt-Winters, SARIMA, and Prophet models on retail inventory data,” İstanbul Ticaret Üniversitesi Sosyal Bilimler Dergisi, vol. 24, no. 49, pp. 215–232, 2025.[3] L. Zhang, Y. Wang, and R. Kumar, “Exploring the potential of artificial intelligence for restructuring the food packaging sector,” Journal of Future Foods, Elsevier/KeAi, vol. 5, no. 2, pp. 187–198, 2025, doi: 10.1016/j.jfutfo.2025.03.012.[4] A. Sharma, P. Singh, and M. K. Gupta, “Artificial intelligence in food system: Innovative approach to predicting food spoilage and inventory forecasting,” Journal of Agriculture and Food Research, Elsevier, vol. 14, Art. no. 101895, 2025, doi: 10.1016/j.jafr.2025.101895.[5] P. Balakrishnan, J. M. Lorenzo, and F. J. Barba, “Artificial intelligence for food safety: From predictive models to real-world safeguards,” Trends in Food Science & Technology, Elsevier, vol. 146, pp. 104–118, 2025, doi: 10.1016/j.tifs.2025.02.014.
+================== SLIDE 17 ==================
+[Google Shape;212;p21]
+Thank You
+[Google Shape;213;p21]
+Suggestions / Questions
